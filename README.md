@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://lssdavies.github.io/Run-Buddy/
 
 ## Contribution
-Made with ❤️ by LArry Davies
+Made with ❤️ by Larry Davies
 
 
