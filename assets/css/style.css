@@ -69,6 +69,16 @@ section {
 }
 
 /* Hero Style Start*/
+.hero-cta h2    {
+    color: #fce138;
+    text-align: center;
+}
+
+.hero-cta p    {
+    color: white;
+    text-align: center;
+}
+
 .hero   {
     background-image: url("../images/hero-bg.jpg");
     background-size: cover;
