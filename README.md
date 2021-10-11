@@ -1,3 +1,16 @@
-# run-buddy
+# Run Buddy
 
-This is my Run-Buddy school assisgnment that I'm working on as part of my Full Stack Web Dev Bootcamp.
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lssdavies.github.io/Run-Buddy/
+
+## Contribution
+Made with ❤️ by LArry Davies
+
+
