@@ -144,21 +144,16 @@ section {
 /*Hero Form Styling End*/
 
 /*Styling for What we do intro*/
-.intro  {
-    text-align: center;
-
-}
-
   .intro p  {
       line-height: 1.7;
       color: #39a6b2;
       width: 80%;
       font-size: 20px;
       margin: 0 auto;
+      text-align: center;
   }
 /* what we do styling steps*/ 
   .steps    {
-      text-align: center;
       background-color: #fce138;
   }
 
@@ -188,12 +183,13 @@ section {
   /*Styling for similar headings in what we do and what you do*/
   
   .section-title    {
-    display: inline-block;
     font-size: 55px;
     color: #024e76;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
     border-bottom: 3px solid;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 35px auto;
+    width: 50%;
   }
 
   .primary-border   {
@@ -206,7 +202,7 @@ section {
 
 /*Styling for Meet the trainers*/
 .trainers   {
-    text-align: center;
+    
 }
 
 .trainer    {
@@ -253,7 +249,6 @@ section {
 
 /*Styling the contact info section*/
 .contact  {
-    text-align: center;
     background-color: #024e76;  
 }
 
@@ -289,4 +284,7 @@ section {
 
 .contact-info a     {
     color: #fce138;
+}
+.flex-row   {
+    display: flex;
 }
