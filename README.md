@@ -13,5 +13,5 @@ https://lssdavies.github.io/Run-Buddy/
 ## Contribution
 Made with ❤️ by Larry Davies
 
-### ©️2019 Run Buddy, Incgit status
+### ©️2019 Run Buddy, Inc
 
